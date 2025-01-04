@@ -17,3 +17,4 @@ cout << result;
 
 return 0;
 }
+//output: 12206
